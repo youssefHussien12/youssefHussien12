@@ -59,24 +59,24 @@ I'm diving deep into **System Design & Architecture** — studying how large-sca
 
 ## 🚀 Featured Projects
 
-> I love building tools that solve real developer pain points. Here's what I'm shipping:
+> I enjoy building full-stack applications that solve real-world problems and improve user experience.
 
 | Project | Description | Stack | Stars |
 |--------|-------------|-------|-------|
-| 🔧 **[project-name](https://github.com/yourhandle/project)** | A short punchy description of what it does and why it matters | Python · FastAPI | ![Stars](https://img.shields.io/github/stars/yourhandle/project?style=flat-square) |
-| 🛠️ **[project-name](https://github.com/yourhandle/project)** | A short punchy description of what it does and why it matters 
-
----
+| 🛒 **[E-commerce Backend](https://github.com/youssefHussien12/E-commerce-org-Backend)** | Backend API for an e-commerce platform with authentication, product management, and order handling | Node.js · Express · MongoDB | ![Stars](https://img.shields.io/github/stars/youssefHussien12/E-commerce-org-Backend?style=flat-square) |
+| 💼 **[Job Search App](https://github.com/youssefHussien12/job-search-app)** | Web app that helps users search and apply for jobs with a clean user interface | React · JavaScript · API | ![Stars](https://img.shields.io/github/stars/youssefHussien12/job-search-app?style=flat-square) |
+| ✉️ **[Sara7a App MVC](https://github.com/youssefHussien12/Sara7a-App-MVC)** | Anonymous messaging app built with MVC architecture and user authentication | Node.js · Express · EJS | ![Stars](https://img.shields.io/github/stars/youssefHussien12/Sara7a-App-MVC?style=flat-square) |
+| 
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourhandle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefHussien12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourhandle&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefHussien12&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourhandle&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=youssefHussien12&theme=tokyonight&hide_border=true)
 
 </div>
 
