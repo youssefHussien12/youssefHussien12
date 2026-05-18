@@ -20,7 +20,7 @@ I'm a **Full-Stack Developer** who loves crafting clean, scalable software — f
 - 🔭 Currently building **open source tools** that developers actually want to use
 - 📐 Leveling up in **System Design & Architecture** — distributed systems, scalability patterns, and clean APIs
 - 🌍 Based somewhere cool (probably planning my next trip ✈️)
-- 💬 Ask me about **React, Django, FastAPI, Python, or Go**
+- 💬 Ask me about **React, Express, FastAPI, or Node.js **
 - ⚡ Fun fact: I debug best with a coffee in hand and lo-fi beats playing
 
 ---
@@ -108,6 +108,5 @@ I'm always open to:
 
 *⭐ If you find any of my projects useful, a star goes a long way!*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourhandle&color=6C63FF&style=flat-square)
-
+![Profile Views](https://komarev.com/ghpvc/?username=youssefHussien12&color=6C63FF&style=flat-square)
 </div>
