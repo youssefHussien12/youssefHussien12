@@ -7,9 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+JavaScript+%7C+Go;Building+Open+Source+Tools;Always+Learning%2C+Always+Shipping)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/youssef-hussien-b0357a251?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yossefhussienm@gmail.com)
 
 </div>
 
@@ -30,22 +29,18 @@ I'm a **Full-Stack Developer** who loves crafting clean, scalable software — f
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -58,7 +53,6 @@ I'm diving deep into **System Design & Architecture** — studying how large-sca
 
 - 🏗️ **Distributed Systems** — CAP theorem, consensus, fault tolerance
 - ⚙️ **API Design** — REST best practices, versioning, rate limiting
-- 📦 **Microservices** — service boundaries, inter-service communication
 - 📊 **Database Scaling** — sharding, replication, indexing strategies
 
 ---
@@ -70,8 +64,7 @@ I'm diving deep into **System Design & Architecture** — studying how large-sca
 | Project | Description | Stack | Stars |
 |--------|-------------|-------|-------|
 | 🔧 **[project-name](https://github.com/yourhandle/project)** | A short punchy description of what it does and why it matters | Python · FastAPI | ![Stars](https://img.shields.io/github/stars/yourhandle/project?style=flat-square) |
-| 🛠️ **[project-name](https://github.com/yourhandle/project)** | A short punchy description of what it does and why it matters | React · Go | ![Stars](https://img.shields.io/github/stars/yourhandle/project?style=flat-square) |
-| 📦 **[project-name](https://github.com/yourhandle/project)** | A short punchy description of what it does and why it matters | Django · PostgreSQL | ![Stars](https://img.shields.io/github/stars/yourhandle/project?style=flat-square) |
+| 🛠️ **[project-name](https://github.com/yourhandle/project)** | A short punchy description of what it does and why it matters 
 
 ---
 
@@ -114,7 +107,7 @@ I'm always open to:
 
 **Drop me a message — let's build something great together.**
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/youssef-hussien-b0357a251?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ---
 
