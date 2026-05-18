@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/27966135/README.md)
 <div align="center">
 
-# Hey there, I'm [YoussefHussien] 👋
+# Hey there, I'm YoussefHussien 👋
 
 ### Full-Stack Developer · Open Source Enthusiast · Lifelong Learner
 
@@ -71,10 +71,6 @@ I'm diving deep into **System Design & Architecture** — studying how large-sca
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefHussien12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefHussien12&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=youssefHussien12&theme=tokyonight&hide_border=true)
 
