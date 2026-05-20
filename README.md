@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · Open Source Enthusiast · Lifelong Learner
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+JavaScript+%7C+Go;Building+Open+Source+Tools;Always+Learning%2C+Always+Shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full-Stack%20Developer%20%F0%9F%9A%80;JavaScript%20%7C%20TypeScript;Building%20Open%20Source%20Tools;Always%20Learning%2C%20Always%20Shipping)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/youssef-hussien-b0357a251?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yossefhussienm@gmail.com)
