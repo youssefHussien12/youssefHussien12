@@ -2,7 +2,7 @@
 
 # Hey there, I'm YoussefHussien 👋
 
-### Full-Stack Developer · Open Source Enthusiast · Lifelong Learner
+### MERN-Stack Developer · Open Source Enthusiast · Lifelong Learner
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full-Stack%20Developer%20%F0%9F%9A%80;JavaScript%20%7C%20TypeScript;Building%20Open%20Source%20Tools;Always%20Learning%2C%20Always%20Shipping)](https://git.io/typing-svg)
 
